@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Custom-Bg {
+    background-color: #65dcdd;
+}
+.hot {
+    margin-left: 30px;
+}
+.style {
+    margin-left: 40px;
+}
+.price {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+}
+.diman {
+    margin-right: -50px;
+}
